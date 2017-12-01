@@ -5,7 +5,7 @@ class first
 {
 	public static void main(string args[])
 	{
-		system.out.println("welcome to Git");
+		system.out.println("welcome");
 	}
 }
 
